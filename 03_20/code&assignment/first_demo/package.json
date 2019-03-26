@@ -1,0 +1,14 @@
+{
+  "name": "first_demo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "shiva + harish",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}

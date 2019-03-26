@@ -1,0 +1,1 @@
+this is delete method in node js

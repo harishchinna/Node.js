@@ -1,0 +1,22 @@
+{
+  "name": "first_demo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc --reporter=lcov --reporter=text-lcov mocha ./test/*/*.js --exit"
+  },
+  "author": "shiva + harish",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "nyc": "^13.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  },
+  "directories": {
+    "test": "mocha"
+  }
+}
